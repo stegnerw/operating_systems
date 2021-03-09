@@ -1,3 +1,6 @@
+## Custom
+lecture_slides/*
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
